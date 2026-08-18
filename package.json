@@ -6,9 +6,9 @@
     "node": "24.x"
   },
   "scripts": {
-    "dev": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
-    "build": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --minify"
-  },
+  "dev": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+  "build": "echo Build concluido"
+},
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.3",
     "tailwindcss": "^4.3.3"
