@@ -4,7 +4,7 @@
     "categoria": "Acessorios",
     "subcategoria": null,
     "preco": null,
-    "estoque": 10,
+    "estoque": null,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/05/cover-sistema-de-pintura-wimpel-spw-af3848b650.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -148,6 +148,31 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/acessorios/canecas/sistema-de-pintura-wimpel-caneca-spw",
     "id": 6
+  },
+  {
+    "nome": "Kits",
+    "categoria": "Acessorios",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-engate-rapido-de-vazao-plena-e-pinos-0c04a191af.png",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/acessorios/kits",
+    "id": 7
   },
   {
     "nome": "Engate Rápido de Vazão Plena e Pinos",
@@ -650,6 +675,31 @@
     "id": 27
   },
   {
+    "nome": "Airless",
+    "categoria": "Airless",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2023/03/cover-cw-10-airless-d98c744316.jpg",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/airless",
+    "id": 28
+  },
+  {
     "nome": "CW-10 Airless",
     "categoria": "Airless",
     "subcategoria": null,
@@ -673,6 +723,31 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/airless/cw-10-airless",
     "id": 29
+  },
+  {
+    "nome": "Cabines de Pintura",
+    "categoria": "Cabines De Pintura",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2023/03/cover-cabine-de-pintura-ct-aaa001b2b1.jpg",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/cabines-de-pintura",
+    "id": 30
   },
   {
     "nome": "Cabines de Acerto de Chapinha",
@@ -750,6 +825,31 @@
     "id": 33
   },
   {
+    "nome": "Cabines de Aerografia",
+    "categoria": "Cabines De Pintura",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-aerografia-5151e80645.jpg",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/cabines-de-pintura/cabines-de-aerografia",
+    "id": 34
+  },
+  {
     "nome": "Cabine de Aerografia CABMP-2",
     "categoria": "Cabines De Pintura",
     "subcategoria": "Cabines De Aerografia",
@@ -798,6 +898,31 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/cabines-de-pintura/cabines-de-aerografia/mini-cabine-com-led-e-exaustao-cabmp-3",
     "id": 36
+  },
+  {
+    "nome": "Compressores",
+    "categoria": "Compressores",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-compressor-de-ar-direto-comp-2-2447dc6420.jpg",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/compressores",
+    "id": 37
   },
   {
     "nome": "Compressor de Ar Direto COMP-2",
@@ -900,6 +1025,31 @@
     "id": 41
   },
   {
+    "nome": "EPIs",
+    "categoria": "Epis",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mascara-respiratoria-pff-1-1b0bb37ffd.jpg",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/epis",
+    "id": 42
+  },
+  {
     "nome": "Máscara Respiratória PFF1",
     "categoria": "Epis",
     "subcategoria": null,
@@ -973,6 +1123,31 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/epis/respirador-semi-facial-mastt-2401",
     "id": 45
+  },
+  {
+    "nome": "Filtros Regulador e Lubrificador",
+    "categoria": "Filtros Regulador E Lubrificador",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-frlmp-4-cc28d3bc21.jpg",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/filtros-regulador-e-lubrificador",
+    "id": 46
   },
   {
     "nome": "FRLMP-4",
@@ -1100,6 +1275,31 @@
     "id": 51
   },
   {
+    "nome": "Iluminação Auxiliar",
+    "categoria": "Iluminacao Auxiliar",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/03/cover-wimled-14a3a91e2e.jpg",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/iluminacao-auxiliar",
+    "id": 52
+  },
+  {
     "nome": "WIMLED",
     "categoria": "Iluminacao Auxiliar",
     "subcategoria": null,
@@ -1123,6 +1323,31 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/iluminacao-auxiliar/wimled",
     "id": 53
+  },
+  {
+    "nome": "Lixadeiras",
+    "categoria": "Lixadeiras",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-aspirador-de-po-mp-506-1e0b8633c4.png",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/lixadeiras",
+    "id": 54
   },
   {
     "nome": "Aspirador de Pó MP-506",
@@ -1225,6 +1450,31 @@
     "id": 58
   },
   {
+    "nome": "Misturador Elétrico para Tintas",
+    "categoria": "Misturador Eletrico Para Tintas",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2021/07/cover-mp-207-f323338180.png",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/misturador-eletrico-para-tintas",
+    "id": 59
+  },
+  {
     "nome": "MP-207",
     "categoria": "Misturador Eletrico Para Tintas",
     "subcategoria": null,
@@ -1248,6 +1498,31 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/misturador-eletrico-para-tintas/mp-207",
     "id": 60
+  },
+  {
+    "nome": "Pistolas",
+    "categoria": "Pistolas",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2025/10/cover-vd-201-1a92afe687.png",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/pistolas",
+    "id": 61
   },
   {
     "nome": "Linha VD",
@@ -1425,6 +1700,31 @@
     "id": 68
   },
   {
+    "nome": "Pistola Pulverizadora Elétrica",
+    "categoria": "Pistolas",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/06/cover-pistola-pulverizadora-comp-4-16a20437fe.png",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/pistolas/pistola-pulverizadora-eletrica",
+    "id": 69
+  },
+  {
     "nome": "Pistola Pulverizadora - COMP-4",
     "categoria": "Pistolas",
     "subcategoria": "Pistola Pulverizadora Eletrica",
@@ -1473,6 +1773,31 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/pistolas/pistola-pulverizadora-eletrica/pistola-pulverizadora-comp-6",
     "id": 71
+  },
+  {
+    "nome": "Pistolas Alta Produção - Sucção",
+    "categoria": "Pistolas",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/06/cover-cp-10-b866690729.png",
+    "descricao": "",
+    "descricaoDetalhada": "",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": null,
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/pistolas/pistolas-alta-producao-succao",
+    "id": 72
   },
   {
     "nome": "CP-10",
@@ -2673,6 +2998,56 @@
     "destaque": false,
     "_url_wimpel": "https://www.wimpel.com.br/produtos/tanques-de-pressao",
     "id": 120
+  },
+  {
+    "nome": "Tanque de Pressão Manual",
+    "categoria": "Tanques De Pressao",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-tanque-de-pressao-manual-7402f17444.png",
+    "descricao": "Descrição Informações Técnicas:",
+    "descricaoDetalhada": "Descrição Informações Técnicas:",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": "possui",
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/tanques-de-pressao/tanque-de-pressao-manual",
+    "id": 121
+  },
+  {
+    "nome": "Tanque de Pressão Pneumático",
+    "categoria": "Tanques De Pressao",
+    "subcategoria": null,
+    "preco": null,
+    "estoque": null,
+    "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-tanque-de-pressao-pneumatico-2931e0f92a.png",
+    "descricao": "Descrição Informações Técnicas:",
+    "descricaoDetalhada": "Descrição Informações Técnicas:",
+    "informacoesTecnicas": {
+      "titulo": "Informações Técnicas",
+      "itens": []
+    },
+    "peso": null,
+    "dimensoes": {
+      "comprimento": null,
+      "largura": null,
+      "altura": null
+    },
+    "marca": "Wimpel",
+    "sku": "possui",
+    "destaque": false,
+    "_url_wimpel": "https://www.wimpel.com.br/produtos/tanques-de-pressao/tanque-de-pressao-pneumatico",
+    "id": 122
   },
   {
     "nome": "TPMP-10-CH",
