@@ -161,7 +161,6 @@
 
     <script src="./assets/js/common.js"></script>
     <script src="./assets/js/suporte.js"></script>
-    <script src="./assets/js/carrinho.js"></script>
     <script>
         const o = JSON.parse(localStorage.getItem('arpint-last-order') || '{}');
         document.querySelector('#order').innerHTML = '<p class="text-sm text-muted">Número do pedido</p><p class="mt-1 text-2xl font-black orange">' + (o.order || 'ARP-DEMO') + '</p><p class="mt-4 text-sm text-muted">Cliente: <b class="text-main">' + (o.name || 'Cliente') + '</b><br>Total: <b class="text-main">' + (o.total || 'R$ 0,00') + '</b></p>';
