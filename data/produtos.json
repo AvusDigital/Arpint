@@ -4,7 +4,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Canecas",
     "preco": 130,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-caneca-de-aluminio-600-ml-82f517c712.png",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -12,7 +12,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -29,7 +29,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Canecas",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-caneca-plastica-ea8c5b19b7.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -37,7 +37,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -54,7 +54,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Canecas",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-caneca-plastica-uv-46b24b03d2.png",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -62,7 +62,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -79,7 +79,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Canecas",
     "preco": 75,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/05/cover-sistema-de-pintura-wimpel-spw-af3848b650.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -87,7 +87,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -104,7 +104,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": 55,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-engate-rapido-de-vazao-plena-e-pinos-0c04a191af.png",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -112,7 +112,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -129,7 +129,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": 25,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-kit-abracadeiras-a722391beb.png",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -137,7 +137,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -154,7 +154,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-engate-rapido-1-4-6665510189.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -162,7 +162,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -179,7 +179,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": 28,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-espigao-fixo-a3809935d3.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -187,7 +187,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -204,7 +204,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-guarnicao-cp-10-98ebd0c414.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -212,7 +212,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -229,7 +229,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-para-filtro-regulador-frlmp-1-a86be229b2.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -237,7 +237,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -254,7 +254,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-para-filtro-regulador-frlmp-2-c1cc3605dd.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -262,7 +262,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -279,7 +279,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": 22,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-pino-engate-rapido-femea-c49949e65a.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -287,7 +287,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -304,7 +304,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": 22,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-pino-engate-rapido-macho-a7c97f2fb3.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -312,7 +312,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -329,7 +329,7 @@
     "categoria": "Acessorios",
     "subcategoria": "Kits",
     "preco": 28,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-kit-uniao-giratoria-5-16-b0cae91bd1.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -337,7 +337,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -354,7 +354,7 @@
     "categoria": "Acessorios",
     "subcategoria": null,
     "preco": 750,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mangueira-de-borracha-de-5-16-665b8b644a.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -362,7 +362,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -379,7 +379,7 @@
     "categoria": "Acessorios",
     "subcategoria": null,
     "preco": 185,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mangueira-nailon-31bdb25601.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -387,7 +387,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -404,7 +404,7 @@
     "categoria": "Acessorios",
     "subcategoria": null,
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-manometro-5fb731e8a2.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -412,7 +412,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -429,7 +429,7 @@
     "categoria": "Acessorios",
     "subcategoria": null,
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-oleador-op-1-00034f5721.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -437,7 +437,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 250,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -454,7 +454,7 @@
     "categoria": "Aerografos",
     "subcategoria": null,
     "preco": 220,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-1001-d4cfc51a0c.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -462,7 +462,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -479,7 +479,7 @@
     "categoria": "Aerografos",
     "subcategoria": null,
     "preco": 220,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-1002-191c38fdc1.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -487,7 +487,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -504,7 +504,7 @@
     "categoria": "Aerografos",
     "subcategoria": null,
     "preco": 220,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-1003-b7d95f9d60.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -512,7 +512,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -529,7 +529,7 @@
     "categoria": "Aerografos",
     "subcategoria": null,
     "preco": 220,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-1004-d7b13692bf.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -537,7 +537,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -554,7 +554,7 @@
     "categoria": "Aerografos",
     "subcategoria": null,
     "preco": 220,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/05/cover-mp-1005-90f085dceb.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -562,7 +562,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -579,7 +579,7 @@
     "categoria": "Airless",
     "subcategoria": null,
     "preco": 2000,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2023/03/cover-cw-10-airless-d98c744316.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -587,7 +587,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -604,7 +604,7 @@
     "categoria": "Cabines De Pintura",
     "subcategoria": "Cabines De Acerto De Chapinha",
     "preco": 5500,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2023/03/cover-cabine-de-pintura-ct-aaa001b2b1.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -612,7 +612,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -629,7 +629,7 @@
     "categoria": "Cabines De Pintura",
     "subcategoria": "Cabines De Acerto De Chapinha",
     "preco": 4800,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-cabine-de-pintura-dad24c0b73.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -637,7 +637,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -654,7 +654,7 @@
     "categoria": "Cabines De Pintura",
     "subcategoria": "Cabines De Aerografia",
     "preco": 1550,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-aerografia-5151e80645.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -662,7 +662,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -679,7 +679,7 @@
     "categoria": "Cabines De Pintura",
     "subcategoria": "Cabines De Aerografia",
     "preco": 1350,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/05/cover-mini-cabine-com-led-e-exaustao-cabmp-3-926fd0d5d8.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -687,7 +687,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -704,7 +704,7 @@
     "categoria": "Compressores",
     "subcategoria": null,
     "preco": 650,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-compressor-de-ar-direto-comp-2-2447dc6420.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -712,7 +712,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -729,7 +729,7 @@
     "categoria": "Compressores",
     "subcategoria": null,
     "preco": 650,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/06/cover-compressor-de-ar-direto-comp-5-c8630c09bb.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -737,7 +737,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -754,7 +754,7 @@
     "categoria": "Compressores",
     "subcategoria": null,
     "preco": 1150,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-compressor-para-aerografo-b903861f72.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -762,7 +762,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -779,7 +779,7 @@
     "categoria": "Compressores",
     "subcategoria": null,
     "preco": 550,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-comp-3-5de3519fdf.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -787,7 +787,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -804,7 +804,7 @@
     "categoria": "Epis",
     "subcategoria": null,
     "preco": 420,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mascara-respiratoria-pff-1-1b0bb37ffd.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -812,7 +812,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -829,7 +829,7 @@
     "categoria": "Epis",
     "subcategoria": null,
     "preco": 95,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2020/06/cover-mascara-semi-facial-dupla-219951756c.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -837,7 +837,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -854,7 +854,7 @@
     "categoria": "Epis",
     "subcategoria": null,
     "preco": 75,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mascara-semi-facial-72a578b7a9.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -862,7 +862,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -879,7 +879,7 @@
     "categoria": "Filtros Regulador E Lubrificador",
     "subcategoria": null,
     "preco": 320,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-frlmp-4-cc28d3bc21.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -887,7 +887,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -904,7 +904,7 @@
     "categoria": "Filtros Regulador E Lubrificador",
     "subcategoria": null,
     "preco": 380,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-frlmp-5-c03df79c88.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -912,7 +912,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -929,7 +929,7 @@
     "categoria": "Filtros Regulador E Lubrificador",
     "subcategoria": null,
     "preco": 250,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-frmp-4-d8538e5b32.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -937,7 +937,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -954,7 +954,7 @@
     "categoria": "Filtros Regulador E Lubrificador",
     "subcategoria": null,
     "preco": 350,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2018/03/cover-frmp-5-b94fdbc5e7.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -962,7 +962,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -979,7 +979,7 @@
     "categoria": "Filtros Regulador E Lubrificador",
     "subcategoria": null,
     "preco": 350,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2020/02/cover-frmp-6-891838dd0b.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -987,7 +987,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1004,7 +1004,7 @@
     "categoria": "Iluminacao Auxiliar",
     "subcategoria": null,
     "preco": 250,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/03/cover-wimled-14a3a91e2e.jpg",
     "descricao": "Descrição Informações Técnicas: Compatibilidade:",
     "descricaoDetalhada": "Descrição Informações Técnicas: Compatibilidade:",
@@ -1012,7 +1012,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1029,7 +1029,7 @@
     "categoria": "Lixadeiras",
     "subcategoria": null,
     "preco": 1700,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-aspirador-de-po-mp-506-1e0b8633c4.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1037,7 +1037,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 6000,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1054,7 +1054,7 @@
     "categoria": "Lixadeiras",
     "subcategoria": null,
     "preco": 1500,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2020/07/cover-lxmp-3000-923776cd82.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1062,7 +1062,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1079,7 +1079,7 @@
     "categoria": "Lixadeiras",
     "subcategoria": null,
     "preco": 420,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/11/cover-lxmp-5-804cfd2c15.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1087,7 +1087,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1104,7 +1104,7 @@
     "categoria": "Lixadeiras",
     "subcategoria": null,
     "preco": 900,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-lxmp-700-b973036aeb.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1112,7 +1112,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1129,7 +1129,7 @@
     "categoria": "Misturador Eletrico Para Tintas",
     "subcategoria": null,
     "preco": 650,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2021/07/cover-mp-207-f323338180.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1137,7 +1137,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1154,7 +1154,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Linha Vd",
     "preco": 190,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2025/10/cover-vd-201-1a92afe687.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1162,7 +1162,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1179,7 +1179,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Linha Vd",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2025/10/cover-vd-22-632e7ad4e4.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1187,7 +1187,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1204,7 +1204,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Linha Vd",
     "preco": 180,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2025/10/cover-vd-250-bd45aa321b.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1212,7 +1212,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1229,7 +1229,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Linha Vd",
     "preco": 160,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2025/10/cover-vd-61-995ede5db3.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1237,7 +1237,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1254,7 +1254,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistola Para Textura Projetada",
     "preco": 250,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/06/cover-mp-2000-33392be101.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1262,7 +1262,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1279,7 +1279,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistola Pulverizadora Eletrica",
     "preco": 450,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/06/cover-pistola-pulverizadora-comp-4-16a20437fe.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1287,7 +1287,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1304,7 +1304,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistola Pulverizadora Eletrica",
     "preco": 450,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/05/cover-pistola-pulverizadora-comp-6-6a806c2bee.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1312,7 +1312,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1329,7 +1329,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Alta Producao Succao",
     "preco": 380,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/06/cover-cp-10-b866690729.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1337,7 +1337,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1354,7 +1354,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Alta Producao Succao",
     "preco": 480,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-400-s-a54da42ff1.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1362,7 +1362,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1379,7 +1379,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Baixa Producao Succao",
     "preco": 380,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-781-8db0ba8531.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1387,7 +1387,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1404,7 +1404,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas De Ar Direto",
     "preco": 180,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/09/cover-mp-201-ad-614254b3a4.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1412,7 +1412,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1429,7 +1429,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas De Ar Direto",
     "preco": 180,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-21-e84b2dd1e3.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1437,7 +1437,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1454,7 +1454,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas De Ar Direto",
     "preco": 120,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-22-ab41193c5e.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1462,7 +1462,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1479,7 +1479,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas De Retoque",
     "preco": 320,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-105-7fe3340542.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1487,7 +1487,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1504,7 +1504,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas De Tanque",
     "preco": 380,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-cp-10-t-60113e185e.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1512,7 +1512,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1529,7 +1529,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas De Tanque",
     "preco": 2200,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-k-591-c5018de7e5.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1537,7 +1537,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1554,7 +1554,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas De Tanque",
     "preco": 520,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-400t-90df2d2af1.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1562,7 +1562,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1579,7 +1579,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Emborrachamento",
     "preco": 100,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2023/03/cover-mp-18-0f347d6510.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1587,7 +1587,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1604,7 +1604,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Emborrachamento",
     "preco": 150,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2018/10/cover-mp-19-19e3f82c5f.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1612,7 +1612,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1629,7 +1629,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Gravidade Convencional",
     "preco": 233,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2021/03/cover-mp-791-405da32212.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1637,7 +1637,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1654,7 +1654,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Gravidade Convencional",
     "preco": 130,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/09/cover-mp-2010-f6fe409354.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1662,7 +1662,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1679,7 +1679,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Gravidade Convencional",
     "preco": 150,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/09/cover-mp-2011-e65fc0e37d.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1687,7 +1687,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1704,7 +1704,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Gravidade Convencional",
     "preco": 650,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-269-b51fdac60a.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1712,7 +1712,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1729,7 +1729,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Gravidade Convencional",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/06/cover-mp-61g-10c8dc9906.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1737,7 +1737,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1754,7 +1754,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 800,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-700-4fad89f5c7.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1762,7 +1762,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1779,7 +1779,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/05/cover-mp-201-hvlp-93fc1603bb.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1787,7 +1787,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1804,7 +1804,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 750,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-mp-260-hvlp-caixa-98240c8bf8.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1812,7 +1812,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1829,7 +1829,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 850,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/06/cover-mp-260-hvlp-maleta-69b48b748d.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1837,7 +1837,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1854,7 +1854,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 275,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2024/07/cover-mp-350-standard-hvlp-9b20b09e8b.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1862,7 +1862,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1879,7 +1879,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 190,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2019/05/cover-mp-560-b0c687e2ad.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1887,7 +1887,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1904,7 +1904,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 520,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2024/09/cover-mp-570-1147b11f64.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1912,7 +1912,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1929,7 +1929,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 130,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-600-bff127e675.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1937,7 +1937,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1954,7 +1954,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 175,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-610-9b4bd0dce0.jpg",
     "descricao": "",
     "descricaoDetalhada": "",
@@ -1962,7 +1962,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -1979,7 +1979,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Hvlp",
     "preco": 155,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/6/produtos/2026/07/cover-mp-610-caixa-black-0848b681b0.png",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -1987,7 +1987,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2004,7 +2004,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Lvlp",
     "preco": 480,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2018/02/cover-mp-410-lvlp-827dc11022.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2012,7 +2012,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2029,7 +2029,7 @@
     "categoria": "Pistolas",
     "subcategoria": "Pistolas Media Producao Succao",
     "preco": 420,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-mp-741-fa758f6f70.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2037,7 +2037,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2054,7 +2054,7 @@
     "categoria": "Pulverizador E Bicos De Limpeza",
     "subcategoria": null,
     "preco": 38,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-blmp-1-4be9175235.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2062,7 +2062,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2079,7 +2079,7 @@
     "categoria": "Pulverizador E Bicos De Limpeza",
     "subcategoria": null,
     "preco": 26,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-blmp-2-42223241a2.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2087,7 +2087,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2104,7 +2104,7 @@
     "categoria": "Pulverizador E Bicos De Limpeza",
     "subcategoria": null,
     "preco": 30,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-blmp-2l-f5f2ace744.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2112,7 +2112,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2129,7 +2129,7 @@
     "categoria": "Pulverizador E Bicos De Limpeza",
     "subcategoria": null,
     "preco": 22,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-blmp-3-170287782b.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2137,7 +2137,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2154,7 +2154,7 @@
     "categoria": "Pulverizador E Bicos De Limpeza",
     "subcategoria": null,
     "preco": 55,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-pvmp-1-e2e9a60e13.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2162,7 +2162,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2179,7 +2179,7 @@
     "categoria": "Pulverizador E Bicos De Limpeza",
     "subcategoria": null,
     "preco": 37,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/01/cover-pvmp-2-2f3db6a9c1.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2187,7 +2187,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2204,7 +2204,7 @@
     "categoria": "Tanques De Pressao",
     "subcategoria": null,
     "preco": 1250,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/06/cover-tpmp-10-ch-da3c201527.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2212,7 +2212,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
@@ -2229,7 +2229,7 @@
     "categoria": "Tanques De Pressao",
     "subcategoria": null,
     "preco": null,
-    "estoque": null,
+    "estoque": 30,
     "imagem": "https://www.wimpel.com.br/doutor/uploads/3/produtos/2017/06/cover-tpmp-2p-fab3faa9c1.jpg",
     "descricao": "Descrição Informações Técnicas:",
     "descricaoDetalhada": "Descrição Informações Técnicas:",
@@ -2237,7 +2237,7 @@
       "titulo": "Informações Técnicas",
       "itens": []
     },
-    "peso": null,
+    "peso": 550,
     "dimensoes": {
       "comprimento": null,
       "largura": null,
