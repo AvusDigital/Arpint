@@ -76,7 +76,15 @@
 
                     <div class="rounded-2xl border border-theme bg-panel p-6">
 
-                        <h2 class="text-xl font-black">2. Pagamento</h2>
+                        <div class="flex items-center justify-between gap-3">
+
+                            <h2 class="text-xl font-black">2. Pagamento</h2>
+
+                            <span class="flex items-center gap-1.5 rounded-full border border-[#00a868]/30 bg-[#00a868]/10 px-3 py-1 text-[11px] font-bold text-[#00a868]">
+                                🔒 checkout estilo <b class="font-black">stone</b> (demo)
+                            </span>
+
+                        </div>
 
                         <div class="mt-5 grid gap-4">
 
@@ -106,17 +114,20 @@
 
                             </div>
 
-                            <div id="pix-fields" class="hidden rounded-xl border border-theme p-5 text-sm text-muted">No
-                                modo demonstração, o PIX será marcado como aprovado sem transação real.</div>
+                            <div id="pix-fields" class="hidden rounded-xl border border-theme p-5 text-sm text-muted">
+                                <span class="mb-2 inline-block rounded-full bg-[#00a868]/10 px-2 py-0.5 text-[11px] font-bold text-[#00a868]">Pix via Stone</span>
+                                <br>No modo demonstração, o PIX será marcado como aprovado sem transação real.</div>
 
                             <div id="boleto-fields"
-                                class="hidden rounded-xl border border-theme p-5 text-sm text-muted">No modo
-                                demonstração, um boleto fictício será gerado para simular a confirmação.</div>
+                                class="hidden rounded-xl border border-theme p-5 text-sm text-muted">
+                                <span class="mb-2 inline-block rounded-full bg-[#00a868]/10 px-2 py-0.5 text-[11px] font-bold text-[#00a868]">Boleto via Stone</span>
+                                <br>No modo demonstração, um boleto fictício será gerado para simular a confirmação.</div>
 
                             <div
                                 class="rounded-xl border border-yellow-500/20 bg-yellow-500/5 p-4 text-xs leading-5 text-muted">
-                                ⚠️ <b>Modo demonstração:</b> nenhum pagamento real é processado. Não use dados reais de
-                                cartão. Para testar, use os números de demonstração indicados abaixo.</div>
+                                ⚠️ <b>Modo demonstração:</b> nenhum pagamento real é processado por essa integração
+                                visual com a Stone. Não use dados reais de cartão. Para testar, use os números de
+                                demonstração indicados abaixo.</div>
 
                             <details class="text-xs text-muted">
 

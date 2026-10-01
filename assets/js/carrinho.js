@@ -27,21 +27,65 @@ function render() {
     localStorage.setItem('arpint-shipping', shipping);
 }
 function change(id, d) { let c = arpintCart.get(), i = c.find(x => +x.id === id); if (!i) return; i.quantidade += d; if (i.quantidade <= 0) c = c.filter(x => +x.id !== id); save(c) }
+// Transportadoras simuladas (estilo comparador tipo SuperFrete).
+// multiplicador aplicado sobre o frete-base calculado por peso/valor, e faixa de prazo (dias úteis).
+const CARRIERS = [
+    { id: 'correios-pac', empresa: 'Correios', servico: 'PAC', cor: '#003399', mult: 1.00, prazo: [5, 10] },
+    { id: 'correios-sedex', empresa: 'Correios', servico: 'SEDEX', cor: '#003399', mult: 1.48, prazo: [2, 5] },
+    { id: 'jadlog-package', empresa: 'Jadlog', servico: '.Package', cor: '#e30613', mult: 0.86, prazo: [6, 12] },
+    { id: 'jadlog-com', empresa: 'Jadlog', servico: '.Com', cor: '#e30613', mult: 1.15, prazo: [3, 6] },
+    { id: 'azul-cargo', empresa: 'Azul Cargo', servico: 'Express', cor: '#1e40af', mult: 1.65, prazo: [1, 3] },
+];
+
 function calcShipping() {
     const cep = document.querySelector('#cep').value.replace(/\D/g, '');
     const results = document.querySelector('#shipping-results');
     if (cep.length !== 8) { arpint.toast('Digite um CEP válido com 8 números.', 'error'); return }
-    results.innerHTML = '<div class="text-sm text-muted">Consultando CEP e montando estimativa...</div>';
+    results.innerHTML = '<div class="text-sm text-muted">Consultando CEP e comparando transportadoras...</div>';
     fetch(`https://viacep.com.br/ws/${cep}/json/`).then(r => r.json()).then(addr => {
         if (addr.erro) throw Error('cep');
         const c = arpintCart.get(); let weight = 0;
         c.forEach(i => { const p = PRODUCTS.find(x => +x.id === +i.id); if (p) weight += p.peso * i.quantidade });
         const subtotal = c.reduce((s, i) => { const p = PRODUCTS.find(x => +x.id === +i.id); return s + (p ? p.preco * i.quantidade : 0) }, 0);
         const base = Math.max(18, 15 + weight / 1000 * 7 + Math.min(40, subtotal / 200));
-        const pac = +(base * 1.00).toFixed(2), sedex = +(base * 1.48).toFixed(2);
-        shipping = pac;
-        results.innerHTML = `<div class="rounded-xl border border-[#ff6a00]/30 bg-[#ff6a00]/5 p-4"><div class="flex justify-between"><div><b>PAC</b><p class="text-xs text-muted">${addr.localidade}/${addr.uf} · estimado 5–10 dias úteis</p></div><strong class="orange">${arpint.money(pac)}</strong></div></div><div class="rounded-xl border border-theme p-4"><button id="choose-sedex" class="flex w-full justify-between text-left"><div><b>SEDEX</b><p class="text-xs text-muted">${addr.localidade}/${addr.uf} · estimado 2–5 dias úteis</p></div><strong>${arpint.money(sedex)}</strong></button></div><p class="text-[11px] leading-5 text-muted">Estimativa demonstrativa baseada em peso/valor. O preço oficial depende da modalidade, origem, destino, dimensões, contrato e regras vigentes dos Correios.</p>`;
-        document.querySelector('#choose-sedex').onclick = () => { shipping = sedex; render() };
+
+        const options = CARRIERS.map(cr => ({
+            ...cr,
+            preco: +(base * cr.mult).toFixed(2),
+        })).sort((a, b) => a.preco - b.preco);
+
+        shipping = options[0].preco;
+
+        results.innerHTML = options.map((o, idx) => `
+            <button
+                data-choose="${o.id}"
+                data-preco="${o.preco}"
+                class="flex w-full items-center justify-between rounded-xl border p-4 text-left transition ${idx === 0 ? 'border-[#ff6a00]/30 bg-[#ff6a00]/5' : 'border-theme hover:border-orange'}"
+            >
+                <div class="flex items-center gap-3">
+                    <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg text-[10px] font-black text-white" style="background:${o.cor}">
+                        ${o.empresa.slice(0, 2).toUpperCase()}
+                    </span>
+                    <div>
+                        <b>${o.empresa} <span class="font-normal text-muted">${o.servico}</span></b>
+                        <p class="text-xs text-muted">${addr.localidade}/${addr.uf} · estimado ${o.prazo[0]}–${o.prazo[1]} dias úteis</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-2">
+                    ${idx === 0 ? '<span class="rounded-full bg-[#ff6a00]/15 px-2 py-0.5 text-[10px] font-black orange">MAIS BARATO</span>' : ''}
+                    <strong class="${idx === 0 ? 'orange' : ''}">${arpint.money(o.preco)}</strong>
+                </div>
+            </button>
+        `).join('') + `<p class="text-[11px] leading-5 text-muted">Comparativo demonstrativo entre transportadoras, baseado em peso/valor do carrinho. Os valores e prazos oficiais dependem de contrato, dimensões, origem/destino e tabela vigente de cada transportadora.</p>`;
+
+        results.querySelectorAll('[data-choose]').forEach(btn => {
+            btn.onclick = () => {
+                shipping = +btn.dataset.preco;
+                render();
+                results.querySelectorAll('[data-choose]').forEach(b => b.classList.remove('border-[#ff6a00]/30', 'bg-[#ff6a00]/5'));
+                btn.classList.add('border-[#ff6a00]/30', 'bg-[#ff6a00]/5');
+            };
+        });
         render();
     }).catch(() => { results.innerHTML = '<p class="text-sm text-red-400">Não foi possível consultar esse CEP.</p>' });
 }
